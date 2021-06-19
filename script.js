@@ -1,3 +1,5 @@
+// Jonathan Sandoval Ferreira
+
 let rec;
     if (!("webkitSpeechRecognition" in window)) {
     	alert("disculpas, no puedes usar la API");
